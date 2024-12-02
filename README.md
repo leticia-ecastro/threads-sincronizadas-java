@@ -1,3 +1,5 @@
+![repo-sinc-threads-java](https://github.com/user-attachments/assets/e074d3e4-46ba-4242-aa76-4ae486ce8c97)
+
 <h1>Exemplo de sincronização de threads em Java</h1>
 
 <p align="justify">Este repositório contém um exemplo de como a sincronização pode solucionar problemas de concorrência (quando duas ou mais threads tentam acessar o mesmo recurso ao mesmo tempo).<br/>
